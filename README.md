@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/iamnotaskynet/iamnotaskynet/raw/master/skynet.gif "Header")](https://iamnotaskynet.github.io/)
+[![IAMNOTASKYNET](https://raw.githubusercontent.com/iamnotaskynet/iamnotaskynet/master/skynet.gif "IAMNOTASKYNET")](https://iamnotaskynet.github.io/)
 <!--
 **iamnotaskynet/iamnotaskynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
